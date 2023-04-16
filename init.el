@@ -1,5 +1,5 @@
 (add-to-list 'load-path "~/.emacs.d/lisp")
-
+(setq use-package-always-ensure t)
 (require 'init-elpa)
 (require 'init-emacs)
 (require 'init-code)
