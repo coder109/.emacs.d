@@ -1,6 +1,0 @@
-(undo-tree-save-format-version . 1)
-"4b79d71d59fff723a4cf2babd95a7b618610945f"
-[nil nil nil nil (25575 34703 145319 163000) 0 nil]
-([nil nil ((#("2" 0 1 (fontified t face font-lock-string-face)) . -2122) (undo-tree-id0 . -1) (#("0" 0 1 (fontified t face font-lock-string-face)) . -2123) (undo-tree-id1 . -1) 2124 (t 25574 16608 423005 549000)) nil (25575 34703 145317 180000) 0 nil])
-([nil current ((2122 . 2124)) nil (25575 34703 145300 659000) 0 nil])
-nil
