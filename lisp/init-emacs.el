@@ -39,7 +39,7 @@
   :ensure t
   :config (dashboard-setup-startup-hook))
 (setq dashboard-banner-logo-title "Let's all love Lain...")
-(setq dashboard-startup-banner "/home/bruce/Lain_avatar.png")
+(setq dashboard-startup-banner "~/Lain_avatar.png")
 (setq dashboard-image-banner-max-height 300)
 (setq dashboard-image-banner-max-width 300)
 (setq dashboard-center-content t)
