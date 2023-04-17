@@ -1,5 +1,5 @@
 (use-package gptel
   :config
-  (setq gptel-api-key "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"))
+  (setq gptel-api-key ""))
 
 (provide 'init-ai)
